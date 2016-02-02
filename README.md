@@ -1,6 +1,15 @@
 # PSU-SIS-Scraping-Node.js
 Scraping html from SIS PSU via node.js
 
+### Features
+- Authenticate SIS via PSU Passport
+- Get student name
+- Get student email
+- Get student photo
+- Get student cumulative GPA
+- Get student class schedule
+- Get student registration result
+
 ### How to use
 - Clone this project
 ```
