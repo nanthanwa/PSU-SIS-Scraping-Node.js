@@ -1,0 +1,28 @@
+{
+  "name": "psu-sis-scraping",
+  "version": "1.0.0",
+  "description": "Scraping html from SIS PSU via node.js",
+  "keywords": "psu, sis, scraping, node.js",
+  "homepage": "http://inan.in.th/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nanthan/PSU-SIS-Scraping-Node.js.git"
+  },
+  "author": "Thanwa Nooploy",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "cheerio": "^0.19.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "q": "^1.4.1",
+    "request": "^2.67.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
