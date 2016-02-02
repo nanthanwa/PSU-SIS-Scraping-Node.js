@@ -29,5 +29,5 @@ app.post('/getProfileStudent', function(req, resToClient){
 });
 
 http.listen(3000, function(){
-	console.log("Server is running");
+	console.log("Server is running on http://localhost:3000");
 })
