@@ -2,22 +2,22 @@
 Scraping html from SIS PSU via node.js
 
 ### How to use
-Clone this project
+- Clone this project
 ```
 git clone https://github.com/nanthan/PSU-SIS-Scraping-Node.js.git
 ```
 
-Go to PSU-SIS-Scraping-Node.js
+- Go to PSU-SIS-Scraping-Node.js
 ```
 cd PSU-SIS-Scraping-Node.js
 ```
 
-Install dependencies
+- Install dependencies
 ```
 npm install
 ```
 
-If you already have gulp you can run gulpfile
+- If you already have gulp you can run gulpfile
 ```
 gulp
 ```
