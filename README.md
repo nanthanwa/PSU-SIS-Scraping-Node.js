@@ -1,7 +1,7 @@
 # PSU-SIS-Scraping-Node.js
 Scraping html from SIS PSU via node.js
 
-# How to use
+### How to use
 Clone this project
 ```
 git clone https://github.com/nanthan/PSU-SIS-Scraping-Node.js.git
@@ -27,8 +27,13 @@ Or
 node index.js
 ```
 
-Special thanks
+###Special thanks
 <a href="https://github.com/Kusumoto/psu-sis-autoregister">psu-sis-autoregister</a> (PHP version.)
 
-# License
+### License
 MIT
+
+### Contact info
+* [Website :: https://inan.in.th](http://inan.in.th)
+* [Facebook :: Thanwa Nooploy](https://fb.com/thanwa.np)
+* [Email :: thanwa.npl@gmail.com](mailto:thanwa.npl@gmail.com)
