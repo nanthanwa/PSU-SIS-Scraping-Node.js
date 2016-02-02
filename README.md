@@ -43,6 +43,6 @@ node index.js
 MIT
 
 ### Contact info
-* [Website :: https://inan.in.th](http://inan.in.th)
-* [Facebook :: Thanwa Nooploy](https://fb.com/thanwa.np)
-* [Email :: thanwa.npl@gmail.com](mailto:thanwa.npl@gmail.com)
+* Website : [https://inan.in.th](http://inan.in.th)
+* Facebook : [Thanwa Nooploy](https://fb.com/thanwa.np)
+* Email : [thanwa.npl@gmail.com](mailto:thanwa.npl@gmail.com)
