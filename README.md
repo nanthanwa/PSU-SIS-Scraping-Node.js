@@ -22,18 +22,13 @@ If you already have gulp you can run gulpfile
 gulp
 ```
 
-Or run
-```
-node .
-```
-
 Or
 ```
 node index.js
 ```
 
 Special thanks
-<a href="https://github.com/Kusumoto/psu-sis-autoregister">psu-sis-autoregister</a>
+<a href="https://github.com/Kusumoto/psu-sis-autoregister">psu-sis-autoregister</a> (PHP version.)
 
 # License
 MIT
