@@ -13,13 +13,10 @@ gulp.task('server', function() {
 })
 
 gulp.task('default', function() {
-  gulp.run('server')
-
-  gulp.watch(['./index.js', './lib/**/*.js'], function() {
-    gulp.run('server')
-  })
-
+  gulp.start('server');
+  gulp.watch(['./index.js', './lib/**/*.js'], ['server']);
 })
+
 
 process.on('exit', function() {
     if (node) node.kill()
