@@ -9,6 +9,7 @@ This project is scraping SIS website [https://sis.psu.ac.th](https://sis.psu.ac.
 - Get student cumulative GPA
 - Get student class schedule
 - Get student registration result
+- Support SSL Certificate
 
 ### How to use
 - Clone this project
