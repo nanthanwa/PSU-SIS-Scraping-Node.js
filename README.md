@@ -38,7 +38,7 @@ node index.js
 ```
 
 ### Example client-side call API
-- AgularJS
+- AngularJS
 ```
   $http.post('http://localhost:3000/getProfileStudent', 
     {
