@@ -77,5 +77,5 @@ MIT
 
 ### Contact info
 * Website : [https://inan.in.th](http://inan.in.th)
-* Facebook : [Thanwa Nooploy](https://fb.com/thanwa.np)
-* Email : [thanwa.npl@gmail.com](mailto:thanwa.npl@gmail.com)
+* Facebook : [Thanwa Jindarattana](https://fb.com/thanwa.jdr)
+* Email : [thanwa.jdr@gmail.com](mailto:thanwa.npl@gmail.com)
